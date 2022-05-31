@@ -1,0 +1,23 @@
+dependencies:
+graphql
+graphql-NextApiRequest  **
+html-react-parser 
+moment
+react-multi-carousel
+sass
+next-graphql
+express-graphql
+
+different command in nextjs:
+npm run dev
+
+
+After creating all the frameworks and components, we need to fetch the real data from graphql and graphcms
+-go to graphcms and click all the desired input you want for building the real data components, and copy them at last 
+-den go to settings of graphql, then to environment, copy the api, den paste it over the env file
+
+Now to update env variable we need to shut the terminal off and restart 
+
+Afterthat posts were created in postcard
+
+Now over to the recent posts in PostWidget
